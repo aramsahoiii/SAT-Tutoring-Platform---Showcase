@@ -12,6 +12,10 @@ This public repository is a **portfolio case study**, not the application source
 - **Import and review content:** Import question-bank PDFs, render question visuals, and surface validation exceptions for teacher review. A bank audit checks records and visual assets.
 - **Use student results:** Import Bluebook spreadsheets and view student scores, outcomes, test history, and domain performance. Students can view their own assignments and performance and submit answers.
 
+## Product tour
+
+Explore the [screenshot tour](docs/PRODUCT_TOUR.md) for the teacher test builder, student analytics, question import, assignments, and performance views.
+
 ## How the system fits together
 
 ![System architecture showing teacher and student workflows, the Python API, question bank, retrieval, and persistence integrations](docs/images/system-architecture.png)
